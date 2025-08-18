@@ -1,0 +1,1 @@
+sample_asdf_data/F106_WFI1_MJD60627.5_inject_cal.asdf filter=lfs diff=lfs merge=lfs -text
