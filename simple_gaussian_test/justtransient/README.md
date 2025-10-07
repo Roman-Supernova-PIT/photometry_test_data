@@ -40,3 +40,5 @@ The angles are uniformly spaced between 0 and 360 degrees, seperated by 30 degre
 
 13 images were chosen to make sure that photometric algorithms hold up under supernaturally unlucky conditions.
 
+shifted_poisson:
+See above, plus poisson noise.
